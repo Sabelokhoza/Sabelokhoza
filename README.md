@@ -2,9 +2,9 @@
 <h1 align="center">Hello  👋, I'm Sabelo Khoza</h1>
 <h3 align="center">A passionate Software Developer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabelokhoza" alt="sabelokhoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sabelokhoza" alt="sabelokhoza" /></a> </p>
 
-- 🌱 I’m currently learning **React , Typescript**
+- 🌱 I’m currently learning **React , Angular , Typescript ( Front End Stuff)**
 
 - 👯 I’m looking to collaborate on **fun , challenging projects**
 
